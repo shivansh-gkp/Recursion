@@ -1,0 +1,1 @@
+Given three words find all permutation possible taking 2 character from the first word and 1 from the other two.
